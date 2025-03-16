@@ -1,4 +1,3 @@
-# .github
 ViralQuiz AI is an AI-driven software that transforms simple quizzes into visually stunning, engaging video content. With built-in automation, AI-generated voiceovers, and customizable templates, this tool removes the hassle of manual video editing and enables users to create viral content effortlessly.
 # ViralQuiz AI Review: The Future of Quiz-Based Video Content Creation
 
